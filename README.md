@@ -26,7 +26,7 @@ Analysis of the web Edreams to identify key features.
 
 
 ### TEST PLAN
-[Edreams Test Plan](/qa/regressiontestplan.pdf)
+[Edreams Test Plan](/test_plan/funcional_test_plan_and_bdd_coverage.pdf)
 Test Plan for Edreams project.
 
 ### REGRESSION TEST PLAN
