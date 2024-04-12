@@ -1,4 +1,4 @@
-# QA-Edreams PROJECT
+# QA-eDreams PROJECT
 QA for the web
 [Edreams](https://githubproject.com)
 
