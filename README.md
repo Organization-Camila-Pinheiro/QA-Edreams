@@ -1,6 +1,6 @@
 # QA-eDreams PROJECT
 QA for the web
-[Edreams](https://githubproject.com)
+[eDreams](https://githubproject.com)
 
 ## FEATURES COVERED
 * Search round trip
